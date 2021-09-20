@@ -6,11 +6,11 @@ if (typeof module !== 'undefined') {
 
 describe("logistics.js", function() {
 
-  describe("dog()", function() {
+  describe("port()", function() {
     it("returns random value from dog array", function() {
-      var dog = faker.logistics.dog();
-      console.log(dog)
-      assert.ok(faker.definitions.animal.dog.indexOf(dog) !== -1);
+      var port = faker.logistics.port();
+      console.log(port)
+      assert.ok(faker.definitions.logistics.port.indexOf(port) !== -1);
     });
   });
 }); 
