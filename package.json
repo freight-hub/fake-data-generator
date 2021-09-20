@@ -1,7 +1,7 @@
 {
   "name": "logistics-faker",
   "description": "Generate logistics specific fake data. Based on Faker.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "contributors": [
     "Marak Squires <marak.squires@gmail.com>",
     "Dayem Siddiqui <dayemsiddiqui@gmail.com>"
