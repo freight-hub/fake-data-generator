@@ -1,4 +1,4 @@
-# faker.js - generate massive amounts of fake data in the browser and node.js
+# Forto Fake Data Generator - Fork of faker js to generate logistic specific fake data
 
 ![Faker.js](https://raw.githubusercontent.com/Marak/faker.js/master/logo.png)
 

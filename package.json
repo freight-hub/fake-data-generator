@@ -1,9 +1,10 @@
 {
-  "name": "faker",
-  "description": "Generate massive amounts of fake contextual data",
-  "version": "5.5.3",
+  "name": "logistics-faker",
+  "description": "Generate logistics specific fake data. Based on Faker.js",
+  "version": "1.0.0",
   "contributors": [
-    "Marak Squires <marak.squires@gmail.com>"
+    "Marak Squires <marak.squires@gmail.com>",
+    "Dayem Siddiqui <dayemsiddiqui@gmail.com>"
   ],
   "repository": {
     "type": "git",
